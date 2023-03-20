@@ -1,0 +1,13 @@
+
+Validation yapýsý 20. Videoda anlatýlmaktadýr.+
+
+Pagination 21. Videoda analatýlýyor
+
+Dosya Yükleme Ýþlemleri 25. Videoda baþlýyor
+
+36. Videoda Remove vs mediator sýnýfýna ýmlementasyonuoluyor
+
+38. Video Idemtity ve Kullanýcý Rolleri Giriþ
+
+
+39. videoda kaldým
